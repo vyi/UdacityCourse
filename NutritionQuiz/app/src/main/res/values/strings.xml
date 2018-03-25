@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NutritionQuiz</string>
+    <string name="optionDefault">default</string>
+    <string name="defaultProblem">Question is loading</string>
+    <string name="scoretext">The score is :</string>
+    <string name="correct">Correct!</string>
+    <string name="incorrect">Wrong!</string>
+</resources>

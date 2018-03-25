@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">जस्ट जावा :</string>
+    <string name="order_summary_name">हजुर को नाम :</string>
+    <string name="order_quantity">मात्रा :</string>
+    <string name="toppings">स्वाद को लागि :</string>
+    <string name="order_ingredient1">तर :</string>
+    <string name="order_ingredient2">चकलेट :</string>
+    <string name="total">कुल :</string>
+    <string name="thanks">धन्यवाद :</string>
+</resources>

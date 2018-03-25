@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="order_summary_name">Name :</string>
+    <string name="order_quantity">Quantity :</string>
+    <string name="toppings">Toppings</string>
+    <string name="order_ingredient1">Cream add on:</string>
+    <string name="order_ingredient2">Chocolate add on:</string>
+    <string name="total">Total : $</string>
+    <string name="thanks">\n Thank You for ordering coffee using JustJava!</string>
+
+</resources>
