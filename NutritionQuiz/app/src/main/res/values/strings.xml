@@ -5,4 +5,5 @@
     <string name="scoretext">The score is :</string>
     <string name="correct">Correct!</string>
     <string name="incorrect">Wrong!</string>
+    <string name="ans_hint">Write answer here</string>
 </resources>
